@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vrb-test-react/static/css/main.9493437a.css",
+    "main.js": "/vrb-test-react/static/js/main.29e3ef32.js",
+    "index.html": "/vrb-test-react/index.html",
+    "main.9493437a.css.map": "/vrb-test-react/static/css/main.9493437a.css.map",
+    "main.29e3ef32.js.map": "/vrb-test-react/static/js/main.29e3ef32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9493437a.css",
+    "static/js/main.29e3ef32.js"
+  ]
+}
